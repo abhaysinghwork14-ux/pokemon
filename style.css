@@ -18,7 +18,6 @@
       padding:20px;
     }
 
-    /* MAIN CONTAINER */
     .container{
     height: 1200px;
       width:1300px;
@@ -30,7 +29,7 @@
       box-shadow:0 10px 40px rgba(0,0,0,0.08);
     }
 
-    /* TOP ICONS */
+   
     .menu-btn,
     .theme-btn{
       width:50px;
@@ -54,7 +53,7 @@
       right:30px;
     }
 
-    /* LOGO */
+ 
     .logo{
       text-align:center;
       margin-top:10px;
@@ -68,7 +67,7 @@
       letter-spacing:3px;
     }
 
-    /* SEARCH + FILTER */
+   
     .top-bar{
       position:relative;
       height:70px;
@@ -136,7 +135,7 @@
       box-shadow:0 5px 15px rgba(0,0,0,0.05);
     }
 
-    /* CARDS SECTION */
+ 
     .cards{
       position:relative;
       height:500px;
